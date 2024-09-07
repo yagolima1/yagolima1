@@ -76,3 +76,13 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yagolima1/yagolima1/output/github-contribution-grid-snake.svg">
 </picture>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0096&height=120&section=footer"/>
+
+<h2 align="left">🔥 Meus Stats :</h2>
+
+<br clear="both">
+
+<img align="left" height="190" src="https://media.tenor.com/hm5Pa6Q0dBIAAAAi/sonic-the-hedgehog.gif"  />
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=yagolima1&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
