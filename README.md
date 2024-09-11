@@ -14,7 +14,7 @@
 <div align="center">
   
    [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=FF00F6&color:FFF)](mailto:franyagoy@gmail.com)
-   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](www.linkedin.com/in/yago-gonçalves/)
+   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/yago-gon%C3%A7alves/)
    
 </div>
 
