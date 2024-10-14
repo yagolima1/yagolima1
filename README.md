@@ -3,7 +3,7 @@
 <div align="center">
 
 <div align="center">
-  <img height="350" width="600" src="Gif/Banner.gif"/>
+  <img height="350" width="600" src="Gif/sonic.gif"/>
 </div>
 
 <img src="https://www.google.com/images/sonic/5-sonic-wait2-60px.gif" jsname="dHt3fc" class="exzcre" alt="Sonic" data-csiid="ZovMZtaHDr3f1sQP-eCI8AM_6" data-atf="1" data-ilt="1724681260887">
