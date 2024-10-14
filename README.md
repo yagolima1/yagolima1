@@ -23,8 +23,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=yagolima1.yagolima1&"  />
 </div>
 
-<h1 align="center">Opa! me chamo Yago Gonçalves 😄👍🏽</h1>
-
 <br>
 
 <div align="center">
